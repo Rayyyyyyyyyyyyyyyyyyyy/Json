@@ -24,7 +24,7 @@ radio 選擇 Body 檔案格式 Json
 網址後要加入 /id EX : http://localhost:555/users/3
 指定要修改的資料
 
-## Delete 刪除
+## Delete 刪除 d
 
 同修改 加入指定 ID
 刪除後再使用 GET 會發現找不到 因為刪掉了
