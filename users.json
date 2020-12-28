@@ -1,11 +1,11 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "王旺往",
+      "name": "王旺往科",
       "email": "test@ee.com",
       "username": "rrrlimili",
-      "password": "123456"
+      "password": "123456",
+      "id": 1
     },
     {
       "id": 2,
@@ -13,13 +13,6 @@
       "email": "testwww@dd.com",
       "username": "mmabo",
       "password": "123455556"
-    },
-    {
-      "name": "丟掉背包",
-      "email": "test@ee222.com",
-      "username": "rrrlimini",
-      "password": "123456",
-      "id": 3
     }
   ],
   "product": [

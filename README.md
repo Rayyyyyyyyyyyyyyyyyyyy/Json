@@ -5,7 +5,7 @@ or
 yarn global add json-server  
 安裝 Json 套件
 
-json-server --watch --port 555 db.json  
+json-server --watch --port 555 users.json  
 監控資料庫狀態 & 獲得網址
 
 # 使用 Postman
