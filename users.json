@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "王旺往",
+      "email": "test@ee.com",
+      "username": "rrrlimili",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "name": "黃荒晃",
+      "email": "testwww@dd.com",
+      "username": "mmabo",
+      "password": "123455556"
+    },
+    {
+      "name": "丟掉背包",
+      "email": "test@ee222.com",
+      "username": "rrrlimini",
+      "password": "123456",
+      "id": 3
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "name": "我愛一條柴",
+      "prise": 3000
+    }
+  ]
+}
